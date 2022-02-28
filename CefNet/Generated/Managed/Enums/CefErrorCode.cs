@@ -224,7 +224,7 @@ namespace CefNet
 
 		WrongVersionOnEarlyData = -179,
 
-		Tls13DowngradeDetected = -180,
+		TLS13DowngradeDetected = -180,
 
 		SSLKeyUsageIncompatible = -181,
 
